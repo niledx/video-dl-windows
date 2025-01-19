@@ -1,0 +1,19 @@
+{
+  "name": "savevideo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "btch-downloader": "^2.8.3",
+    "express": "^4.21.2",
+    "node-fetch": "^3.3.2",
+    "youtube-dl-exec": "^3.0.13",
+    "ytdl-core": "^4.11.5"
+  }
+} 
